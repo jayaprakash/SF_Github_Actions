@@ -1,5 +1,5 @@
 public with sharing class SF_ApexController {
-    public static Integer myValue = 0;  //Class Member variable
+    public static Integer myValue = 1;  //Class Member variable
     public static String myString = ''; //Class Member variable
     // public SF_ApexController() {
 
